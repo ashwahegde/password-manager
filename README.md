@@ -29,6 +29,7 @@ my friends were unable to read it. But I am pretty sure if it is given to comput
 ## Goal of the solution
 
 - Encrypt individual passwords individually.
+- Encryption and decryption keys are generated at runtime.
 - sha256 of master password (passphrase) is used to encrypt all passwords.
 - enforce maximum security in python script.
 
@@ -41,4 +42,4 @@ refer [this file](encr-decr/USAGE.md).
 
 ## Feedback
 - create an issue.
-- ping me on [telegram](t.me/ashwahegde).
+- ping me on [telegram](https://t.me/ashwahegde).
